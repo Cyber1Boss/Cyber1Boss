@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋👋👋
 
 <!--
 **Cyber1Boss/Cyber1Boss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working on on my website. <br>
+🌱 I’m currently learning html, css, js. <br>
+📫 How to reach me: https://www.Cyber1Boss.com <br>
+⚡ Fun fact: I hold a few IT certifications (Linux+, A+, Net+, Sec+, AWS CP, Google ITSP, and more).
