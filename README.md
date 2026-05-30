@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on on my website.
+🔭 I’m currently working on on my website. <br>
 🌱 I’m currently learning html, css, js.
 📫 How to reach me: https://www.Cyber1Boss.com
 ⚡ Fun fact: I hold a few IT certifications (Linux+, A+, Net+, Sec+, AWS CP, Google ITSP, and a few more).
