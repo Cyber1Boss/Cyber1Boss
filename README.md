@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 🔭 I’m currently working on on my website. <br>
 🌱 I’m currently learning html, css, js. <br>
 📫 How to reach me: https://www.Cyber1Boss.com <br>
-⚡ Fun fact: I hold a few IT certifications (Linux+, A+, Net+, Sec+, AWS CP, Google ITSP, and a few more).
+⚡ Fun fact: I hold a few IT certifications (Linux+, A+, Net+, Sec+, AWS CP, Google ITSP, and more).
